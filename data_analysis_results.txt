@@ -1,0 +1,10 @@
+Customer Issue Analysis Results
+
+Refund Issues: 5
+Return Issues: 3
+Order Issues: 4
+Cancel Issues: 2
+
+Conclusion:
+Most customers are facing refund-related issues.
+The chatbot should be improved to handle refund queries automatically.
